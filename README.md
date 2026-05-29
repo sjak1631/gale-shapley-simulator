@@ -105,4 +105,4 @@ Gale-Shapley マッチング（学生提案型）:
 
 ## ライセンス
 
-（未指定）
+MIT License
